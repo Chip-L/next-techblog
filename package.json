@@ -1,7 +1,14 @@
 {
   "name": "next-techblog",
   "version": "0.1.0",
+  "description": "A techblog made with NextJS",
   "private": true,
+  "author": "Chip Long",
+  "license": "MIT",
+  "homepage": "https://github.com/Chip-L/next-techblog#readme",
+  "bugs": {
+    "url": "https://github.com/Chip-L/next-techblog/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
